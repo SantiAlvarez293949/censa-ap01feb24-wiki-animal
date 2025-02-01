@@ -1,2 +1,8 @@
-# censa-ap01feb24-wiki-animal
-Wiki de animales para práctica en curso de programación Web básica en Censa 2025
+# Wiki de animales
+
+- Autor: Santiago Alvarez Valencia
+- email: elsan.sa37@gmail.com
+- Celular: 3124293949
+- Código de Grupo: ap01feb24
+- Horario: Sábados Pm
+- Materia: Programación Web básica
